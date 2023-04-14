@@ -1,0 +1,54 @@
+.franklin   {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.courier    {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.title {
+    font-size: 33px;
+    text-align: center;
+    background-color: navy;
+    color: yellow;
+    font-weight: bolder;
+}
+ul  {
+    font-style: italic;
+    background-color: blueviolet;
+    color: darkseagreen;
+    font-size: large;
+}
+ol  {
+    background-color: brown;
+    color: aqua;
+    font-size: large;
+}
+p   {
+    background-color: bisque;
+    color: grey;
+    font-size: large;
+}
+.links  {
+    font-size: 30px;
+    text-align: left;
+    background-color: beige;
+    color: darkslategray;
+    font-weight: bold;
+    font-style: inherit;
+}
+.secondtitle    {
+    font-size: 25;
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+    font-weight: bold;
+}
+.centerimg  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.minititles {
+    text-align: left;
+}
